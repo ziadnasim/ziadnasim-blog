@@ -1,0 +1,20 @@
+h1 {
+background-color:#3A6F9A;
+color: white;
+text-align: center;
+}
+
+img {
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  }
+
+#container {
+height: 30%;
+}
